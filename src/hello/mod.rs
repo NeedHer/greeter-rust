@@ -1,3 +1,3 @@
 mod hello_world;
 
-pub use hello_world::HelloWorld;
+pub use self::hello_world::HelloWorld;

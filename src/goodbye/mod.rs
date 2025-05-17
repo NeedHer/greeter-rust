@@ -1,3 +1,3 @@
 mod goodbye_world;
 
-pub use goodbye_world::GoodbyeWorld;
+pub use self::goodbye_world::GoodbyeWorld;
